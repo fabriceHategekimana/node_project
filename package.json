@@ -1,0 +1,22 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabriceHategekimana/node_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabriceHategekimana/node_project/issues"
+  },
+  "homepage": "https://github.com/fabriceHategekimana/node_project#readme",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
